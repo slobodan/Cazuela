@@ -2,7 +2,7 @@
 	opacity: 0;
 	width: 0;
 	height: 0;
-	display: block;
+	display: none !important;
 	float: left;
 }
 .image-radio + label {
